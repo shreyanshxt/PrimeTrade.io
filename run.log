@@ -1,0 +1,138 @@
+2026-03-26 04:50:58 - INFO - ============================================================
+2026-03-26 04:50:58 - INFO - MLOps Task 0: Batch Signal Generation Job
+2026-03-26 04:50:58 - INFO - Started at 2026-03-26T04:50:58.819389
+2026-03-26 04:50:58 - INFO - ============================================================
+2026-03-26 04:50:58 - INFO - Loading config from config.yaml
+2026-03-26 04:50:58 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-26 04:50:58 - INFO - Loading data from data.csv
+2026-03-26 04:50:58 - INFO - Data loaded successfully: 10000 rows
+2026-03-26 04:50:58 - INFO - Computing rolling mean (window=5) and signal generation
+2026-03-26 04:50:58 - INFO - Signal generation complete: rows_processed=10000, signal_rate=0.6465
+2026-03-26 04:50:58 - INFO - Metrics: {
+  "version": "v1",
+  "rows_processed": 10000,
+  "metric": "signal_rate",
+  "value": 0.6465,
+  "latency_ms": 34,
+  "seed": 42,
+  "status": "success"
+}
+2026-03-26 04:50:58 - INFO - Total latency: 34ms
+2026-03-26 04:50:58 - INFO - Metrics written to metrics.json
+2026-03-26 04:50:58 - INFO - Job completed at 2026-03-26T04:50:58.857315
+2026-03-26 04:50:58 - INFO - ============================================================
+2026-03-26 15:46:55 - INFO - ============================================================
+2026-03-26 15:46:55 - INFO - MLOps Task 0: Batch Signal Generation Job
+2026-03-26 15:46:55 - INFO - Started at 2026-03-26T15:46:55.303762
+2026-03-26 15:46:55 - INFO - ============================================================
+2026-03-26 15:46:55 - INFO - Loading config from config.yaml
+2026-03-26 15:46:55 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-26 15:46:55 - INFO - Loading data from data.csv
+2026-03-26 15:46:55 - INFO - Data loaded successfully: 6000 rows
+2026-03-26 15:46:55 - INFO - Computing rolling mean (window=5) and signal generation
+2026-03-26 15:46:55 - INFO - Signal generation complete: rows_processed=6000, signal_rate=0.6505
+2026-03-26 15:46:55 - INFO - Metrics: {
+  "version": "v1",
+  "rows_processed": 6000,
+  "metric": "signal_rate",
+  "value": 0.6505,
+  "latency_ms": 7,
+  "seed": 42,
+  "status": "success"
+}
+2026-03-26 15:46:55 - INFO - Total latency: 7ms
+2026-03-26 15:46:55 - INFO - Metrics written to metrics.json
+2026-03-26 15:46:55 - INFO - Job completed at 2026-03-26T15:46:55.311507
+2026-03-26 15:46:55 - INFO - ============================================================
+2026-03-26 15:48:10 - INFO - ============================================================
+2026-03-26 15:48:10 - INFO - MLOps Task 0: Batch Signal Generation Job
+2026-03-26 15:48:10 - INFO - Started at 2026-03-26T15:48:10.867988
+2026-03-26 15:48:10 - INFO - ============================================================
+2026-03-26 15:48:10 - INFO - Loading config from config.yaml
+2026-03-26 15:48:10 - INFO - Config loaded: seed=30, window=10, version=v1
+2026-03-26 15:48:10 - INFO - Loading data from data.csv
+2026-03-26 15:48:10 - INFO - Data loaded successfully: 6000 rows
+2026-03-26 15:48:10 - INFO - Computing rolling mean (window=10) and signal generation
+2026-03-26 15:48:10 - INFO - Signal generation complete: rows_processed=6000, signal_rate=0.7097
+2026-03-26 15:48:10 - INFO - Metrics: {
+  "version": "v1",
+  "rows_processed": 6000,
+  "metric": "signal_rate",
+  "value": 0.7097,
+  "latency_ms": 14,
+  "seed": 30,
+  "status": "success"
+}
+2026-03-26 15:48:10 - INFO - Total latency: 14ms
+2026-03-26 15:48:10 - INFO - Metrics written to metrics.json
+2026-03-26 15:48:10 - INFO - Job completed at 2026-03-26T15:48:10.883096
+2026-03-26 15:48:10 - INFO - ============================================================
+2026-03-26 15:57:13 - INFO - ============================================================
+2026-03-26 15:57:13 - INFO - MLOps Task 0: Batch Signal Generation Job
+2026-03-26 15:57:13 - INFO - Started at 2026-03-26T15:57:13.795603
+2026-03-26 15:57:13 - INFO - ============================================================
+2026-03-26 15:57:13 - INFO - Loading config from config.yaml
+2026-03-26 15:57:13 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-26 15:57:13 - INFO - Loading data from data.csv
+2026-03-26 15:57:13 - INFO - Data loaded successfully: 10000 rows
+2026-03-26 15:57:13 - INFO - Computing rolling mean (window=5) and signal generation
+2026-03-26 15:57:13 - INFO - Signal generation complete: rows_processed=10000, signal_rate=0.6465
+2026-03-26 15:57:13 - INFO - Metrics: {
+  "version": "v1",
+  "rows_processed": 10000,
+  "metric": "signal_rate",
+  "value": 0.6465,
+  "latency_ms": 14,
+  "seed": 42,
+  "status": "success"
+}
+2026-03-26 15:57:13 - INFO - Total latency: 14ms
+2026-03-26 15:57:13 - INFO - Metrics written to metrics.json
+2026-03-26 15:57:13 - INFO - Job completed at 2026-03-26T15:57:13.810589
+2026-03-26 15:57:13 - INFO - ============================================================
+2026-03-26 16:05:12 - INFO - ============================================================
+2026-03-26 16:05:12 - INFO - MLOps Task 0: Batch Signal Generation Job
+2026-03-26 16:05:12 - INFO - Started at 2026-03-26T16:05:12.185676
+2026-03-26 16:05:12 - INFO - ============================================================
+2026-03-26 16:05:12 - INFO - Loading config from config.yaml
+2026-03-26 16:05:12 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-26 16:05:12 - INFO - Loading data from data.csv
+2026-03-26 16:05:12 - INFO - Data loaded successfully: 10000 rows
+2026-03-26 16:05:12 - INFO - Computing rolling mean (window=5) and signal generation
+2026-03-26 16:05:12 - INFO - Signal generation complete: rows_processed=10000, signal_rate=0.6465
+2026-03-26 16:05:12 - INFO - Metrics: {
+  "version": "v1",
+  "rows_processed": 10000,
+  "metric": "signal_rate",
+  "value": 0.6465,
+  "latency_ms": 15,
+  "seed": 42,
+  "status": "success"
+}
+2026-03-26 16:05:12 - INFO - Total latency: 15ms
+2026-03-26 16:05:12 - INFO - Metrics written to metrics.json
+2026-03-26 16:05:12 - INFO - Job completed at 2026-03-26T16:05:12.202110
+2026-03-26 16:05:12 - INFO - ============================================================
+2026-03-26 16:08:53 - INFO - ============================================================
+2026-03-26 16:08:53 - INFO - MLOps Task 0: Batch Signal Generation Job
+2026-03-26 16:08:53 - INFO - Started at 2026-03-26T16:08:53.670667
+2026-03-26 16:08:53 - INFO - ============================================================
+2026-03-26 16:08:53 - INFO - Loading config from config.yaml
+2026-03-26 16:08:53 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-26 16:08:53 - INFO - Loading data from data.csv
+2026-03-26 16:08:53 - INFO - Data loaded successfully: 10000 rows
+2026-03-26 16:08:53 - INFO - Computing rolling mean (window=5) and signal generation
+2026-03-26 16:08:53 - INFO - Signal generation complete: rows_processed=10000, signal_rate=0.6465
+2026-03-26 16:08:53 - INFO - Metrics: {
+  "version": "v1",
+  "rows_processed": 10000,
+  "metric": "signal_rate",
+  "value": 0.6465,
+  "latency_ms": 16,
+  "seed": 42,
+  "status": "success"
+}
+2026-03-26 16:08:53 - INFO - Total latency: 16ms
+2026-03-26 16:08:53 - INFO - Metrics written to metrics.json
+2026-03-26 16:08:53 - INFO - Job completed at 2026-03-26T16:08:53.687911
+2026-03-26 16:08:53 - INFO - ============================================================
