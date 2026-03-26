@@ -1,6 +1,6 @@
 # MLOps Task 0: Batch Signal Generation Job
 
-> A production-ready MLOps batch job demonstrating **reproducibility**, **observability**, and **deployment readiness** — processing OHLCV financial data to generate rolling-mean-based binary trading signals.
+> A production ready MLOps batch job demonstrating **reproducibility**, **observability**, and **deployment readiness**  processing OHLCV financial data to generate rolling mean based binary trading signals.
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Overview
 
-This project mirrors real-world trading-signal pipeline work with three core principles:
+This project mirrors real world trading-signal pipeline work with three core principles:
 
 | Principle | Implementation |
 |---|---|
